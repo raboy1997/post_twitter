@@ -79,8 +79,8 @@ vendor/extensions/**/spec/dummy
 tmp
 log
 .byebug_history
-config/database.yml
-config/secrets.yml
+#config/database.yml
+#config/secrets.yml
 .idea/post_twitter.iml
 .idea/workspace.xml
 
