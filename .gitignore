@@ -78,12 +78,11 @@ vendor/extensions/**/spec/dummy
 tmp
 log
 .byebug_history
-<<<<<<< HEAD
-#config/database.yml
-#config/secrets.yml
-=======
 
->>>>>>> 3930776d93592e0437c10ee7f16d7e0c1da4c948
+config/database.yml
+config/secrets.yml
+
+
 .idea/post_twitter.iml
 .idea/workspace.xml
 
