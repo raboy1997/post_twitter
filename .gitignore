@@ -12,8 +12,7 @@
 /log/*.log 
 /tmp 
 public/uploads 
-config/database.yml 
-# Rails 
+# Rails
 .bundle 
 db/*.sqlite3 
 db/*.sqlite3-journal 
@@ -79,8 +78,12 @@ vendor/extensions/**/spec/dummy
 tmp
 log
 .byebug_history
+<<<<<<< HEAD
 #config/database.yml
 #config/secrets.yml
+=======
+
+>>>>>>> 3930776d93592e0437c10ee7f16d7e0c1da4c948
 .idea/post_twitter.iml
 .idea/workspace.xml
 
