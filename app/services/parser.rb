@@ -9,7 +9,7 @@ class Parser
     private
 
     def get_news
-      RSS::Parser.parse(open('https://meduza.io/rss/all').read, false).items[0..99]
+      RSS::Parser.parse(open('https://meduza.io/rss/all').read, false).items[0..9]
     end
 
     def create_news(news)
